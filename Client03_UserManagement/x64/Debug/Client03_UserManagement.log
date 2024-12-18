@@ -1,0 +1,10 @@
+﻿  KPacket.cpp
+  ConsoleApplication_ConsoleGame.cpp
+C:\uni\ComputerNetwork_FinalAssignment_DONE\Client03_UserManagement\ConsoleApplication_ConsoleGame.cpp(317,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  KInput.cpp
+  KMatrix2.cpp
+  KVector2.cpp
+  MyUtil.cpp
+  Generating Code...
+     Creating library C:\uni\ComputerNetwork_FinalAssignment_DONE\x64\Debug\Client03_UserManagement.lib and object C:\uni\ComputerNetwork_FinalAssignment_DONE\x64\Debug\Client03_UserManagement.exp
+  Client03_UserManagement.vcxproj -> C:\uni\ComputerNetwork_FinalAssignment_DONE\x64\Debug\Client03_UserManagement.exe

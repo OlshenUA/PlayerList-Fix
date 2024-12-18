@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KGlobalSingleton&lt;T&gt;" Collapsed="true">
+    <Position X="2" Y="0.5" Width="2.5" />
+    <NestedTypes>
+      <Class Name="KGlobalSingleton&lt;T&gt;::KSingletonCreator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>KGlobalSingleton.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAgAAAAAAA=</HashCode>
+      <FileName>KGlobalSingleton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KIocp" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="KIocp::__unnamed_enum_0019_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>KIocp.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAQAAAQAAAQAEAAAASAgBAABBgAAEAAgAAhAQAAA=</HashCode>
+      <FileName>KIocp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KThreadManager">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQCAAAAAAQAAAAAiAAACAAACgAAAAAAACAAkAAA=</HashCode>
+      <FileName>KThreadManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
